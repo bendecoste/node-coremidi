@@ -29,6 +29,7 @@
   "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
   "license": "MIT",
   "os": [
-    "darwin"
+    "darwin",
+    "linux"
   ]
 }
